@@ -1,0 +1,13 @@
+[Core]
+name = esb
+module = esb
+
+[Documentation]
+description = Requests the ESB
+
+[Python]
+version = 3
+
+[Errbot]
+min = 4.3.7
+
